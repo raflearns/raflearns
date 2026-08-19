@@ -24,17 +24,16 @@
 </p>
 
 <br/>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="RAF's GitHub Stats" />
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <a href="https://github.com/raflearns">
+    <img src="https://streak-stats.demolab.com/?user=raflearns&theme=radical&hide_border=true" alt="RAF's GitHub Streak" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <a href="https://github.com/raflearns">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raflearns&theme=radical" alt="RAF's Profile Summary" />
   </a>
 </p>
-
 <br/>
 
 <h3 align="left">📫 Connect with me:</h3>
